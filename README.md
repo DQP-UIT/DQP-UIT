@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)](https://github.com/DQP-UIT)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit+Code&pause=1000&color=259DF7&width=600&height=50&lines=Hi+there+👋+I+am+DQP!;🔭+I’m+currently+studying+at+UIT;💻+Passionate+about+coding!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit+Code&pause=1000&&center=true&vCenter=true&color=259DF7&width=600&height=50&lines=Hi+there+👋+I+am+DQP!;🔭+I’m+currently+studying+at+UIT;💻+Passionate+about+coding!" alt="Typing SVG" />
 </h1>
 
 ---
