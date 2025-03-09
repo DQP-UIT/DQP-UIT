@@ -1,4 +1,3 @@
-## Hi there 👋
 <!--
 **DQP-UIT/DQP-UIT** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
@@ -14,28 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif" width="100%" />
-</p>
+[![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)](https://github.com/DQP-UIT)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=259DF7&width=500&height=50&lines=Hi+there+✨+I+am+DQP!;🔭+I’m+currently+studying+at+UIT;💻+Passionate+about+coding!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit+Code&pause=1000&color=259DF7&width=600&height=50&lines=Hi+there+👋+I+am+DQP!;🔭+I’m+currently+studying+at+UIT;💻+Passionate+about+coding!" alt="Typing SVG" />
 </h1>
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-    <img src="github-stats.svg" alt="GitHub Stats" height="180px"/>
-    <img src="github-top-langs.svg" alt="Top Languages" height="180px"/>
-</p>
-
----
-
-### 🏆 Achievements  
-<p align="center">
-    <img src="github-trophies.svg" alt="GitHub Trophies" width="80%" />
-</p>
+### 📊 GitHub Stats 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DQP-UIT&layout=compact)](https://github.com/DQP-UIT) 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DQP-UIT&show_icons=true&rank_icon=github&theme=radical)](https://github.com/DQP-UIT)  
 
 ---
 
