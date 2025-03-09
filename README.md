@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DQP-UIT&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DQP-UIT&layout=compact)
-![Trophies](https://github-profile-trophy.vercel.app/?username=DQP-UIT&theme=darkhub)
+![GitHub Stats](github-stats.svg)
+![Top Langs](github-top-langs.svg)
+![Trophies](github-trophies.svg)
 
 
