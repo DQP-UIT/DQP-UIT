@@ -20,8 +20,8 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git config --global user.name 'DQP-UIT'
-          git config --global user.email '22521149@gm.uit.edu.vn'
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
           git add .
           git diff --quiet && git diff --staged --quiet || git commit -m "Updated GitHub Stats in README"
           git push
